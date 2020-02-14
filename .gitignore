@@ -3,3 +3,4 @@ DjangoBlogging/db.sqlite3
 DjangoBlogging/DjangoBlogging/__pycache__
 jobs/__pycache__
 jobs/migrations/__pycache__
+media/
